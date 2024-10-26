@@ -1,4 +1,4 @@
-# DataVisualization
+# Data Visualization
 Objectives
 
 Demonstrate skills in data visualization.
